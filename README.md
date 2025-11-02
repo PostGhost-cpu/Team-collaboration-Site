@@ -16,24 +16,24 @@ Automated fee calculator with multi-course discount tiers:
 * Responsive design and mobile-friendly layouts.
 
 ## File structure (current version)
-/
-├── Home.html
-├── Quote.html         <!-- fee calculator and application workflow -->
-├── Login.html
-├── Courses.html
-├── FirstAid.html
-├── ChildMinding.html
-├── Cooking.html
-├── GardenMaintenance.html
-├── Landscaping.html
-├── LifeSkills.html
-├── Sewing.html
-├── Support.html
-├── About.html
-├── css/               <!-- stylesheets -->
-├── js/                <!-- fee calculator -->
-├── Images/            <!-- images and media assets -->
-└── README.md
+/ <br/>
+├── Home.html<br/>
+├── Quote.html<br/>         <!-- fee calculator and application workflow -->
+├── Login.html<br/>
+├── Courses.html<br/>
+├── FirstAid.html<br/>
+├── ChildMinding.html<br/>
+├── Cooking.html<br/>
+├── GardenMaintenance.html<br/>
+├── Landscaping.html<br/>
+├── LifeSkills.html<br/>
+├── Sewing.html<br/>
+├── Support.html<br/>
+├── About.html<br/>
+├── css/<br/>               <!-- stylesheets -->
+├── js/<br/>                <!-- fee calculator -->
+├── Images/<br/>            <!-- images and media assets -->
+└── README.md<br/>
 
 ### How the fee calculator works (summary)
 * Each course checkbox uses a value attribute for price. Typical values used in this project:
